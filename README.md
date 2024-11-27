@@ -1,1 +1,1 @@
-# Sentence-to-Sentence-Semantic
+# Sentence-to-Sentence-Semantic Similarity
